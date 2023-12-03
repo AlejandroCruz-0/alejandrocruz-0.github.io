@@ -5,7 +5,7 @@ pubDate: 'Dec 01 2023'
 heroImage: '/gcp-cloudshell1.png'
 ---
 
-Wether you are just curious about using linux or a developer getting into the backend business brushing up your skills with actual practice is always good. Thankfully getting a linux development enviroment inside your browser is very easy thanks to google's cloudshell.
+Whether you are just curious about using linux or a developer getting into the backend business brushing up your skills with actual practice is always good. Thankfully getting a linux development enviroment inside your browser is very easy thanks to google's cloudshell.
 
 
 All you need is a free google account, then go to [Cloud Shell](https://cloud.google.com/shell) and click on go to console and activate your cloud shell.
