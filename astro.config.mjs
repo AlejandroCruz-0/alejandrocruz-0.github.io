@@ -7,6 +7,10 @@ import sitemap from '@astrojs/sitemap';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://alejandrocruz-0.github.io',
+	  redirects: {
+    "/": "/about",
+    
+  },
 	integrations: [mdx(), sitemap(),
 		partytown({
 			config: {
