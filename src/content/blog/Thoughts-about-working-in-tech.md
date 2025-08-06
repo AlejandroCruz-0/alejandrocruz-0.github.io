@@ -26,9 +26,10 @@ I think AI is an overhyped and unethical mess that is very useful for programmin
 
 ---
 
-# Everything sucks
+# Everything sucks, but that is allright.
 
-It doesn't matter how prestigious your shiny job is (E.g FANG companies), eventually it is revealed as the shambling corpse that it is. Common issues are non-existent or poor documentation, obsolete tech stacks, no backup processes, poor communication between areas, unreasonable workloads, Etc. You should be aware of these issues going on so that you can identify them quickly and hopefully resolve some of them with some discussions with your management. 
+It doesn't matter how prestigious your shiny job is (E.g FANG companies), eventually it is revealed as the shambling corpse that it is. Common issues are non-existent or poor documentation, obsolete tech stacks, no backup processes, poor communication between areas, unreasonable workloads, Etc. You should be aware of these issues going on so that you can identify them quickly and hopefully resolve some of them with some discussions with your management.
+With that said even though everything sucks that is kinda the job, like the famous saying goes eat problems for breakfast!
 
 ---
 
